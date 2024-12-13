@@ -104,5 +104,3 @@ El microservicio incluye pruebas automatizadas para validar el comportamiento de
 
 ## Autores
 David Guillén, Johann Ordoñez, Gustavo Guevara y Johan Carrasco.
-
-```
